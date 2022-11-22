@@ -1,7 +1,7 @@
 # FractalTrees_p5js
 Fractal trees using P5JS
 
-![result image]()
+![result image](https://github.com/ThePension/FractalTrees_p5js/blob/main/result.png)
 
 ## Preview
 - On github hosting page : https://thepension.github.io/FractalTrees_p5js/

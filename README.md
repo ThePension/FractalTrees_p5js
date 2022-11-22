@@ -1,6 +1,10 @@
 # FractalTrees_p5js
 Fractal trees using P5JS
 
+## Preview
+- On github hosting page : https://thepension.github.io/FractalTrees_p5js/
+- On P5js web editor : https://editor.p5js.org/ThePension/sketches/9vt0OVYWT
+
 ## 1. Structure source
 La demande pour cet exercice est de créer des fractales. Nous sommes partis sur l'idée de faire des fractacles de type arbres chaotiques, ou les angles, le nombre d'enfants et les couleurs seraient aléatoires. Nous avons aussi utilisé le bruit (Perlin noise) pour faire bouger aléatoirement nos fractales, afin de donner une impression de vie.
 Le résultat final est des fractales ressemblant à des algues de couleurs différentes, flottant au fond de l'océan, perturbées par un courant marin (simulé par le bruit).
